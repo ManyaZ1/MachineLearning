@@ -1,0 +1,3 @@
+Neural Networks with SGD and ADAM optimizer for classification 
+1.Bayes vs NN for classification
+2.Classification of numbers from MNIST dataset
