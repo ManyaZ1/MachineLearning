@@ -1,0 +1,4 @@
+GAN project
+1. generate images of "8"s
+2. inpainting of "8"s
+3. inpainting of blurry "8"s (with noise)  
