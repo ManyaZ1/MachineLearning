@@ -1,0 +1,2 @@
+reinforcement learning project
+neural netwroks vs numerical approach for best optimal policy problems
